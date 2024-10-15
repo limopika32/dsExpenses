@@ -33,6 +33,9 @@ pip install pygame nfcpy
 5. ウィンドウを閉じると受付を終了します。
 6. 間違えてウィンドウを閉じて終了した後でも、再度 1. からやり直すことで受付を再開することが出来ます。
 
+## ライセンス (LICENCE)
+このリポジトリは [MITライセンス](./LICENSE) に準拠しています。<br>
+Released under the [MIT license.](./LICENSE)
 
 ***
 > nakanolab による [NFC対応学生証による出席確認ツール](https://github.com/nakanolab/nfc-attendance) のソースを利用しています。
